@@ -1,0 +1,9 @@
+The application will consist of user and admin login(Role based login)
+after getting logged in the user can apply for insurance claim by
+providing some details and uploading the documents or appropriate proof
+a ticket would be generated.
+The claimed insurance would be approved by admin after verifying all 
+parameters and it would reflect at the user end. If the insurance is approved
+then the user can update his/her bank details.
+(admin has a comment section if anyting is not appropriate
+then the application would go back to user for making the changes).
